@@ -1,9 +1,9 @@
 :root {
-    --dark-primary-color: #7C4DFF;
-    --light-primary-color:  #88E0EF;
-    --primary-color: #757575;
-    --text-icons: #BDBDBD;
-    --backgrond-color: #303F9F;
+    --dark-primary-color: #388E3C;
+    --light-primary-color:  #8BC34A;
+    --primary-color: #4CAF50;
+    --text-icons: #FFFFFF;
+    --backgrond-color: #BDBDBD;
 }
 * {
     margin: 0;
@@ -25,6 +25,7 @@ body {
 }
 .top-bar img {
     width: 400px;
+    fill: #125C13;
 }
 .nav-bar {
     text-align: center;

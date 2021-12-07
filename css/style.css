@@ -9,6 +9,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-size: 2em;
+}
 .parent {
     display: grid;
     min-height: 100vh;
@@ -40,11 +43,15 @@ a, li {
     display: block;
 }
 .content {
-    min-height: 80vh;
+    text-align: center;
+    padding: 2em;
     grid-area: 2 / 2 / -2 / -1;
     background-color: var(--backgrond-color);
     color: var(--text-icons);
 }
 .footer {
     grid-area: -1 / 1 / -1 / -1;
+    bottom: 0;
+    background-color: var(--dark-primary-color);
+    color: var(--text-icons);
 }

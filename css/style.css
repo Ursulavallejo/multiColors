@@ -6,6 +6,14 @@
 }
 .top-bar {
     grid-area: 1 / 1 / 2 / -1;
+    text-align: center;
+}
+.top-bar img {
+    width: 400px;
+}
+.nav-bar {
+    grid-area: 2 / 1 / 2 / -1;
+    background-color: blue;
 }
 .content {
     min-height: 80vh;

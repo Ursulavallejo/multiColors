@@ -1,8 +1,74 @@
+<<<<<<< Updated upstream
+=======
+:root {
+    --dark-primary-color: #FF9800;
+    --light-primary-color:  #F57C00;
+    --primary-color: #757575;
+    --text-icons: #212121;
+    --backgrond-color: #FFEB3B;
+}
+
+@font-face {
+    font-family: 'Staatliches-Regular';
+    src: url('../font/staat/Staatliches-Regular.ttf')
+}
+
+
+>>>>>>> Stashed changes
 * {
     box-sizing: border-box;
 }
 
 body {
+<<<<<<< Updated upstream
     margin: 0;
     padding: 0;
+=======
+    font-size: 2em;
+    font-family: Staatliches-Regular, sans-serif;
+}
+.parent {
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+}
+.top-bar {
+    grid-area: 1 / 1 / 2 / -1;
+    text-align: center;
+    background-color: var(--light-primary-color);
+}
+.top-bar img {
+    width: 400px;
+}
+.nav-bar {
+    text-align: center;
+    background-color: var(--dark-primary-color);
+}
+.nav-bar a {
+    color: var(--text-icons);
+    display: inline-block;
+    padding-left: 1em;
+}
+.nav-bar a:hover {
+    color: var(--light-primary-color);
+}
+a, li {
+    text-decoration: none;
+    display: block;
+}
+.content {
+    text-align: center;
+    padding: 2em;
+    grid-area: 2 / 2 / -2 / -1;
+    background-color: var(--backgrond-color);
+    color: var(--text-icons);
+}
+.footer {
+    grid-area: -1 / 1 / -1 / -1;
+    bottom: 0;
+    text-align: center;
+    background-color: var(--dark-primary-color);
+    color: var(--text-icons);
+>>>>>>> Stashed changes
 }

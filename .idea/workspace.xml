@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="298b3618-c353-411a-8a2a-c7113f5ecca9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/font/Roboto/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/meow/MeowScript-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/merriweather/Merriweather-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/oswald/Oswald-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/oswald/Oswald-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/oswald/Oswald-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/oswald/Oswald-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/oswald/Oswald-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/oswald/Oswald-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/staat/Staatliches-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styleBlue.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleBlue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styleGreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleGreen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styleLila.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleLila.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styleRed.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleRed.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styleYellow.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styleYellow.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/font" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\multiColors\font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\multiColors\font\staat" />
+      <recent name="C:\Git\multiColors\font\meow" />
+      <recent name="C:\Git\multiColors\font\merriweather" />
+      <recent name="C:\Git\multiColors\img" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="298b3618-c353-411a-8a2a-c7113f5ecca9" name="Changes" comment="" />
+      <created>1638871808239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638871808239</updated>
+      <workItem from="1638871809508" duration="3612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

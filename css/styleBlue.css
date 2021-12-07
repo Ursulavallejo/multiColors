@@ -51,6 +51,7 @@ a, li {
 }
 .footer {
     grid-area: -1 / 1 / -1 / -1;
+    text-align: center;
     bottom: 0;
     background-color: var(--dark-primary-color);
     color: var(--text-icons);

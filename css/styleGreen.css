@@ -1,6 +1,6 @@
 :root {
     --dark-primary-color: #388E3C;
-    --light-primary-color:  #8BC34A;
+    --light-primary-color:  #C2F784;
     --primary-color: #4CAF50;
     --text-icons: #FFFFFF;
     --backgrond-color: #BDBDBD;
@@ -53,6 +53,7 @@ a, li {
 .footer {
     grid-area: -1 / 1 / -1 / -1;
     bottom: 0;
+    text-align: center;
     background-color: var(--dark-primary-color);
     color: var(--text-icons);
 }

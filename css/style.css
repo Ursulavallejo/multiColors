@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 :root {
     --dark-primary-color: #7C4DFF;
     --light-primary-color:  #88E0EF;
@@ -5,6 +6,7 @@
     --text-icons: #BDBDBD;
     --backgrond-color: #303F9F;
 }
+
 * {
     margin: 0;
     padding: 0;
@@ -37,6 +39,7 @@ body {
 }
 .nav-bar a:hover {
     color: var(--light-primary-color);
+    transition: all .5s ease-in;
 }
 a, li {
     text-decoration: none;

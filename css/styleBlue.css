@@ -5,13 +5,23 @@
     --text-icons: #BDBDBD;
     --backgrond-color: #303F9F;
 }
+
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../font/Roboto/Roboto-Regular.ttf')
+}
+
+
+body {
+    font-size: 2em;
+    font-family: Roboto-Regular, sans-serif;
+
 * {
     margin: 0;
     padding: 0;
 }
-body {
-    font-size: 2em;
-}
+
 .parent {
     display: grid;
     min-height: 100vh;
@@ -55,4 +65,3 @@ a, li {
     bottom: 0;
     background-color: var(--dark-primary-color);
     color: var(--text-icons);
-}

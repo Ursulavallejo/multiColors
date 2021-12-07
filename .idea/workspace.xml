@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="298b3618-c353-411a-8a2a-c7113f5ecca9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indexBlue.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexBlue.html" afterDir="false" />
@@ -9,6 +10,9 @@
       <change beforePath="$PROJECT_DIR$/indexRed.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexRed.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indexYellow.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexYellow.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="e7f96184-1728-4311-a82d-be27c64e1354" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +22,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="TaskManager">
     <servers />
   </component>

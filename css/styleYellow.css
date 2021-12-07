@@ -1,17 +1,36 @@
+
 :root {
     --dark-primary-color: #FF9800;
     --light-primary-color:  #F57C00;
     --primary-color: #757575;
     --text-icons: #212121;
     --backgrond-color: #FFEB3B;
+
+}
+
+@font-face {
+    font-family: 'Staatliches-Regular';
+    src: url('../font/staat/Staatliches-Regular.ttf')
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    font-family: Staatliches-Regular, sans-serif;
+
 }
 * {
     margin: 0;
     padding: 0;
 }
-body {
-    font-size: 2em;
-}
+
 .parent {
     display: grid;
     min-height: 100vh;
@@ -55,4 +74,5 @@ a, li {
     text-align: center;
     background-color: var(--dark-primary-color);
     color: var(--text-icons);
+
 }

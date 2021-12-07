@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .parent {
     display: grid;
     min-height: 100vh;
@@ -7,13 +11,26 @@
 .top-bar {
     grid-area: 1 / 1 / 2 / -1;
     text-align: center;
+    background-color: #88E0EF;
 }
 .top-bar img {
     width: 400px;
 }
 .nav-bar {
     grid-area: 2 / 1 / 2 / -1;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    min-width: 100vw;
     background-color: blue;
+    float: inherit;
+}
+.nav-bar a {
+    color: white;
+    display: inline-block;
+}
+a, li {
+    text-decoration: none;
+    display: block;
 }
 .content {
     min-height: 80vh;

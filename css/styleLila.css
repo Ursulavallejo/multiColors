@@ -1,11 +1,11 @@
-<<<<<<< Updated upstream
-=======
+
 :root {
     --dark-primary-color: #7B1FA2;
     --light-primary-color: #E040FB;
     --primary-color: #E1BEE7;
     --text-icons: #FFFFFF;
     --backgrond-color: #757575;
+
 }
 
 @font-face {
@@ -14,19 +14,23 @@
 }
 
 
->>>>>>> Stashed changes
+
 * {
     box-sizing: border-box;
 }
 
 body {
-<<<<<<< Updated upstream
     margin: 0;
     padding: 0;
-=======
     font-size: 2em;
     font-family: Merriweather-Regular, sans-serif;
+
 }
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .parent {
     display: grid;
     min-height: 100vh;
@@ -70,5 +74,5 @@ a, li {
     text-align: center;
     background-color: var(--dark-primary-color);
     color: var(--text-icons);
->>>>>>> Stashed changes
+
 }

@@ -1,36 +1,19 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 :root {
-    --dark-primary-color: #FF9800;
-    --light-primary-color:  #F57C00;
+    --dark-primary-color: #7C4DFF;
+    --light-primary-color:  #88E0EF;
     --primary-color: #757575;
-    --text-icons: #212121;
-    --backgrond-color: #FFEB3B;
-
+    --text-icons: #BDBDBD;
+    --backgrond-color: #303F9F;
 }
-
-@font-face {
-    font-family: 'Staatliches-Regular';
-    src: url('../font/staat/Staatliches-Regular.ttf')
-}
-
-
 
 * {
-    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
-
 body {
-    margin: 0;
-    padding: 0;
     font-size: 2em;
-    font-family: Staatliches-Regular, sans-serif;
-
 }
-* {
-    margin: 0;
-    padding: 0;
-}
-
 .parent {
     display: grid;
     min-height: 100vh;
@@ -56,6 +39,7 @@ body {
 }
 .nav-bar a:hover {
     color: var(--light-primary-color);
+    transition: all .5s ease-in;
 }
 a, li {
     text-decoration: none;
@@ -71,8 +55,6 @@ a, li {
 .footer {
     grid-area: -1 / 1 / -1 / -1;
     bottom: 0;
-    text-align: center;
     background-color: var(--dark-primary-color);
     color: var(--text-icons);
-
 }

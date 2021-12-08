@@ -30,20 +30,30 @@ Monochromatic colors
 
 ![](img/bluePalette.png)
 
+Font: Roboto-Regular
+
 2. Röd färgtema och complementary colors logotype:
 
 ![](img/red.png)
+
+Font: Oswald-Regular
 
 3. Gul färgtema split colors logotype:
 
 ![](img/orange.png)
 
+Font: Staatliches-Regular
+
 4. Lila färgtema och triadic colors :
 
 ![](img/lila.png)
+
+Font: Merriweather-Regular
 
 5. Grön färgtema och monochromatic logotype: 
 
 ![](img/gren.png)
 logo färger:
 ![](img/greenLogo.png)
+
+Font: MeowScript-Regular
